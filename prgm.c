@@ -19,7 +19,9 @@ int main() {
             case 1:
                 printf("You selected CSE:\n");
                 break;
-         
+	    case 2:
+		printf(" you selected aiml:\n");
+break;
         }
     }
     
