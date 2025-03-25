@@ -22,6 +22,9 @@ int main() {
 	    case 2:
 		printf(" you selected aiml:\n");
 break;
+	    case 3:
+printf(" you selected ece:\n");
+break;
         }
     }
     
