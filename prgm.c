@@ -19,20 +19,7 @@ int main() {
             case 1:
                 printf("You selected CSE:\n");
                 break;
-            case 2:
-                printf("You selected AIML:\n");
-                break;
-            case 3:
-                printf("You selected ECE:\n");
-                break;
-            case 4:
-                printf("You selected Mechanical:\n");
-                break;
-            case 5:
-                printf("Exiting the program...\n");
-                return 0; 
-            default:
-                printf("Invalid choice! Please enter a valid option (1-5).\n");
+         
         }
     }
     
